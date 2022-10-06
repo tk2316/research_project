@@ -7,4 +7,3 @@ Some of the underlying factors include...
 - Social: Literacy rate, population (urban population vs. rural population), mean years of schooling, government budget on education, population in poverty, Social Progress Index, religious and ethnic diversity, number of mainstream media, Gini Index, contagion from other regional coups, colonial legacy, crime rate, and Corruption Perceptions Index.
 
 
-
