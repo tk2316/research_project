@@ -1,5 +1,6 @@
-|Countries|Count|
-|---------|-----|
+# **Countries that experienced (Coup, Attempted Coup, Conspired Coup)**
+|Country|Count|  
+|---------|-----|   
 |Burkina Faso |10|
 |Burundi  |15|
 |Chad |14|
@@ -12,8 +13,8 @@
 |Madagascar |10|
 |Maldives |4|
 |Mali |10|
-|Mauritania |12|
-|Niger  |9|
+|Mauritania |12| 
+|Niger  |9|      
 |Papua New Guinea |2|
 |Sudan  |28|
 |Thailand |19|
@@ -67,8 +68,7 @@
 |Djibouti	|1|
 |Dominica	|1|
 |Dominican Republic	|9|
-|Ecuador	|15|
-|Ecudaor	|1|
+|Ecuador	|16|
 |El Salvador	|8|
 |Equatorial Guinea	|4|
 |German Democratic Republic	|4|
@@ -136,3 +136,22 @@ Uganda	|12|
 |Yemen Arab Republic	|6|
 |Yemen PDR	|6|
 |Zambia	|5|
+
+# **Countries that experienced most Coup**
+| Country | Count |
+|---------|-------|
+|Bolivia  |37|
+|Sudan  |28|
+|Argentina  |24|
+|Haiti  |24|
+|Venezuela  |21 |
+|Syria |21 |
+|Thailand|19 |
+|Iraq |17 |
+|Guatemala|17 |
+|Panama|16 |
+|Ecuador|16 |
+|Burundi|15 |
+|Nigeria |15 |
+|Congo  |15 |
+|Togo   |15 |
