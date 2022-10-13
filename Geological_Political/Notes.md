@@ -1,3 +1,3 @@
-# ** Geological Factors Checklist **
+# Geological Factors Checklist 
 - [ ] Continent
 - [ ] Colonized Past 
