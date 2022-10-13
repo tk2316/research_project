@@ -1,4 +1,4 @@
-# ** Economic Factors Checklist **
+# Economic Factors Checklist 
 - [ ] Gross Domestic Product
 - [ ] Unemployment Rate
 - [ ] Inflation Rate
