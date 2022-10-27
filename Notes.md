@@ -15,10 +15,5 @@ direction that would bring things back to stability.
 * From analyzing countries that experienced 10 or more coup d'etat, most of them occured in Africa.
 * Out of 37 countries with most coup d'etat, 36 had been colonized in the past
  
-Africa	19
-South America	6
-Asia	6
-North America	4
-South America 	1
-![image](https://user-images.githubusercontent.com/31752682/198355100-11c837b5-3dbf-4d2d-b4ba-d2371446f5cc.png)
+
 
