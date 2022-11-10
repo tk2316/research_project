@@ -13,7 +13,7 @@ direction that would bring things back to stability.
 
 ## Discoveries
 * From analyzing countries that experienced 10 or more coup d'etat, most of them occured in Africa.
-* Out of 37 countries with most coup d'etat, 36 had been colonized in the past
- 
+* Out of 37 countries with most coup d'etat...
+ *  s
 
 
