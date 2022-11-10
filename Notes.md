@@ -14,6 +14,13 @@ direction that would bring things back to stability.
 ## Discoveries
 * From analyzing countries that experienced 10 or more coup d'etat, most of them occured in Africa.
 * Out of 37 countries with most coup d'etat...
- *  s
-
+19 Africa
+6 South America
+6 Asia
+4 North America
+1 South America
+* Average ethnic, linguistic, relgious fractionalization of the 37 countries with most coup d'etat were 0.59, 0.50, 0.43 respectively
+* Average ethnic, linguistic, relgious fractionalization of the 9 countries that experienced no coup d'etat were 0.15, 0.15, 0.46 respectively.
+* When compared, countries with no coup d'etat has significantly less ethinic and linguistic fractionalization index scores.
+* Most of the countries researched were colonized Indiscriminately of colonization past.
 
