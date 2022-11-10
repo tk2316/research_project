@@ -23,4 +23,4 @@ direction that would bring things back to stability.
 * Average ethnic, linguistic, relgious fractionalization of the 9 countries that experienced no coup d'etat were 0.15, 0.15, 0.46 respectively.
 * When compared, countries with no coup d'etat has significantly less ethinic and linguistic fractionalization index scores.
 * Most of the countries researched were colonized Indiscriminately of colonization past.
-
+* Continent with most frequent coup d'etat was in Africa while the continent with most no coup d'etat was in Asia.
