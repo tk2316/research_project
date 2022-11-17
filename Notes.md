@@ -24,3 +24,4 @@ direction that would bring things back to stability.
 * When compared, countries with no coup d'etat has significantly less ethinic and linguistic fractionalization index scores.
 * Most of the countries researched were colonized Indiscriminately of colonization past.
 * Continent with most frequent coup d'etat was in Africa while the continent with most no coup d'etat was in Asia.
+* Countries with more coup d'etat occurences experience more negative annual GDP growth
