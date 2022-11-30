@@ -1,4 +1,4 @@
-# Geological Factors Checklist 
+# Geographical Factors Checklist 
 - [X] Continent
 - [X] Colonized Past 
 - [X] Fractionalization Index Scores (linguistic + ethnic + religious / 3) 
