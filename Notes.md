@@ -25,3 +25,7 @@ direction that would bring things back to stability.
 * Most of the countries researched were colonized Indiscriminately of colonization past.
 * Continent with most frequent coup d'etat was in Africa while the continent with most no coup d'etat was in Asia.
 * Countries with more coup d'etat occurences experience more negative annual GDP growth
+* Countries with least coup had significantly higher GDP per capita than the countries that experienced more coups.
+* Countries with least coup had stable currency (similiar PPP) against the USD compare to the countries that experienced more coups.
+* Countries with least coup had lower Inflation rate average than the countries that experienced more coups (significantly less).
+* Countries with least coup had lower unemployment rate compare to those that experienced more.
