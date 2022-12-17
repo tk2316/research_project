@@ -23,9 +23,10 @@ direction that would bring things back to stability.
 * Average ethnic, linguistic, relgious fractionalization of the 9 countries that experienced no coup d'etat were 0.15, 0.15, 0.46 respectively.
 * When compared, countries with no coup d'etat has significantly less ethinic and linguistic fractionalization index scores.
 * Most of the countries researched were colonized Indiscriminately of colonization past.
-* Continent with most frequent coup d'etat was in Africa while the continent with most no coup d'etat was in Asia.
-* Countries with more coup d'etat occurences experience more negative annual GDP growth
-* Countries with least coup had significantly higher GDP per capita than the countries that experienced more coups.
-* Countries with least coup had stable currency (similiar PPP) against the USD compare to the countries that experienced more coups.
-* Countries with least coup had lower Inflation rate average than the countries that experienced more coups (significantly less).
-* Countries with least coup had lower unemployment rate compare to those that experienced more.
+* Continent with most frequent coups d'etat was in Africa while the continent with most no coup d'etat was in Asia.
+* Countries with more coups d'etat occurences experience more negative annual GDP growth
+* Countries with least coups had significantly higher GDP per capita than the countries that experienced more coups.
+* Countries with least coups had stable currency (similiar PPP) against the USD compare to the countries that experienced more coups.
+* Countries with least coups had lower Inflation rate average than the countries that experienced more coups (significantly less).
+* Countries with least coups had lower unemployment rate compare to those that experienced more.
+* Countries with high coups had higher homicide, lower internet connectivity level, inflation, higher PPP
