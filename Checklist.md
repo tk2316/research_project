@@ -12,10 +12,13 @@
 * [x] Ethnic Diversity
 * [x] Linguistic Diversity
 
+** Social/Political
+* [x] Internet Connectivity
+* [X] Gini Index 
 
 
 ** TODO 
-* Political: Approval rating, political system, Fragile States Index, Global Peace Index, Political Stability Index, Freedom Score, Bertelsmann Transformation Index, and Global Competitiveness Index.
+* Political: Fragile States Index, Intentional Homocide 
 * FINISH ECONOMIC AND GEO-POLITICAL paragraphs by 2022.12.19
 * FINISH POLITICAL SPREADSHEET and paragraph by 2022.12.19
-* ESSAY DONE (PROOF READ)
+* ESSAY DONE (PROOF READ) 
